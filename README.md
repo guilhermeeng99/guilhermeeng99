@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧠 About Me:
 🔭 Building scalable mobile apps & games with Flutter and Firebase.<br>📱 Experienced in products with 15M+ downloads and Google Play awards.<br>⚙️ Focused on performance, architecture, and Live Ops at scale.<br>🤝 Open to collaborating on high-quality mobile products in global teams.<br>
 
 

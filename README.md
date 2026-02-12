@@ -12,7 +12,7 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 
 ### **About me**
 
-- 📱 6+ years building mobile apps & games
+- 📱 5+ years building mobile apps & games
 - 🌍 Products reaching **15M+ downloads worldwide**
 - 🏆 Google Play Indie Games Accelerator 2024 — Winner
 - 🏆 Google Play Indie Games Fund 2023 — Winner
@@ -37,7 +37,7 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 
 <div align='center'>
 
-<b>Core</b>
+<b>Core</b>&nbsp;&nbsp;
 
 <img src="assets/flutter-logo.png" width=25 title='Flutter'/> &nbsp;&nbsp; <img src='assets/dart-logo.png' width=25 title='Dart'> &nbsp;&nbsp; <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> &nbsp;&nbsp; <img src='assets/java.png' width=25 title='Java'> &nbsp;&nbsp;
 

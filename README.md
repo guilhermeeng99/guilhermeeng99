@@ -1,6 +1,6 @@
-<img src='assets/header.jpg'/>
+<img src='assets/header.png'/>
 
-Hey! I'm Guilherme 👋  
+Hey! I'm Guilherme 👋
 
 Flutter Mobile Developer focused on building scalable mobile apps and games used by millions of users worldwide.
 
@@ -12,12 +12,12 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 
 ### **About me**
 
-- 📍 Brazil — Open to Remote (USD / EUR)
 - 📱 6+ years building mobile apps & games
 - 🌍 Products reaching **15M+ downloads worldwide**
-- 🏆 Google Play Indie Games accelerator 2024 Winner
-- 🏆 Google Play Indie Games Fund 2023 Winner  
-- 🏆 Google Play Best of 2021 Winner  
+- 🏆 Google Play Indie Games Accelerator 2024 — Winner
+- 🏆 Google Play Indie Games Fund 2023 — Winner
+- 🏆 Google Play Best of 2021 — Nominee
+- 📍 Brazil — Open to Remote (USD / EUR)
 
 ---
 
@@ -37,18 +37,23 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 
 <div align='center'>
 
-<b>Mobile</b>
+<b>Core</b>
 
-Flutter • Dart • Riverpod • Bloc • MobX • TDD • Clean Architecture  
+<img src="assets/flutter-logo.png" width=25 title='Flutter'/> &nbsp;&nbsp; <img src='assets/dart-logo.png' width=25 title='Dart'> &nbsp;&nbsp; <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> &nbsp;&nbsp; <img src='assets/java.png' width=25 title='Java'> &nbsp;&nbsp;
+
+Riverpod • Bloc • MobX • TDD • Clean Architecture
 
 <b>Backend & Cloud</b>
 
-Firebase (Auth, Firestore, FCM, Remote Config, Storage)  
-Node.js • GraphQL • REST APIs • SQL • NoSQL  
+<img src='assets/firebase.png' width=25 height=25 title='Firebase'> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/339933" height=25 title='Node.js'> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> &nbsp;&nbsp; <img src='assets/mysql.png' width=20 height=30 title='SQL'> &nbsp;&nbsp; <img src='assets/sqlite.png' width=25 height=25 title='SQLite'>
+
+Firebase (Auth, Firestore, FCM, Remote Config, Storage) • Node.js • GraphQL • REST APIs
 
 <b>Product & Growth</b>
 
-ASO • Monetization • Ads Optimization • CI/CD (GitHub Actions, Codemagic)  
+<img src='assets/figma.png' width=17 title='Figma'> &nbsp;&nbsp; <img src='assets/adobe-xd.png' width=25 title='Figma'> &nbsp;&nbsp;  <img src='assets/git.png' width=25 title='Git'> &nbsp;&nbsp; <img src='assets/github.png' width=25 title='GitHub Actions'>
+
+ASO • Monetization • Ads Optimization • CI/CD (GitHub Actions, Codemagic)
 
 </div>
 
@@ -56,52 +61,46 @@ ASO • Monetization • Ads Optimization • CI/CD (GitHub Actions, Codemagic)
 
 ## 🚀 Featured Products
 
-### 🧩 Magic Sort — Hybrid Casual Game  
-🔗 https://appmagic.rocks/google-play/magic-sort/com.blu.wsp 
-🏆 Google Play Indie Games accelerator 2024 Winner
-🔗 https://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html  
+### 🧩 Magic Sort — Hybrid Casual Game
+[🔗 View on AppMagic](https://appmagic.rocks/google-play/magic-sort/com.blu.wsp) · 🏆 [Google Play Indie Games Accelerator 2024 Winner](https://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html)
 
-- 480K+ downloads in first months  
-- Flutter + Firebase  
-- High-performance UI systems  
-- Monetization & Live Events architecture  
+- **480K+ downloads** in first months
+- Flutter + Firebase
+- High-performance UI systems
+- Monetization & Live Events architecture
 
 ---
 
-### 🐰 Rabit — Gamified Habit Tracker  
-🔗 https://appmagic.rocks/google-play/rabit/com.blu.rabito  
-🏆 Google Play Best of 2021 Nominee  
-🔗 https://blog.google/products-and-platforms/platforms/google-play/google-plays-best-of-2021/  
+### 🐰 Rabit — Gamified Habit Tracker
+[🔗 View on AppMagic](https://appmagic.rocks/google-play/rabit/com.blu.rabito) · 🏆 [Google Play Best of 2021 Nominee](https://blog.google/products-and-platforms/platforms/google-play/google-plays-best-of-2021/)
 
-- 3.5M+ downloads  
-- Cloud sync, notifications, analytics  
-- Full Firebase integration  
+- **3.5M+ downloads**
+- Cloud sync, notifications, analytics
+- Full Firebase integration
 
 ---
 
-### 🧃 Cups — Casual Puzzle Game  
-🔗 https://appmagic.rocks/ipad/cups/1541421297  
-- 4.5M+ downloads  
-- Strong traction in US market  
-- Full ads & monetization system  
-- Scalable ranking systems  
+### 🧃 Cups — Casual Puzzle Game
+[🔗 View on AppMagic](https://appmagic.rocks/ipad/cups/1541421297)
+
+- **4.5M+ downloads**
+- Strong traction in US market
+- Full ads & monetization system
+- Scalable ranking systems
 
 ---
 
-### 👽 Farm vs Aliens — Tower Defense  
-🔗 https://play.google.com/store/apps/details?gl=US&hl=en-US&id=com.blu.farmvsaliens  
-🏆 Google Play Indie Games Fund 2023 Winner  
-🔗 https://blog.google/products-and-platforms/platforms/google-play/10-studios-selected-for-google-plays-2023-indie-games-fund/  
+### 👽 Farm vs Aliens — Tower Defense
+[🔗 View on Google Play](https://play.google.com/store/apps/details?gl=US&hl=en-US&id=com.blu.farmvsaliens) · 🏆 [Google Play Indie Games Fund 2023 Winner](https://blog.google/products-and-platforms/platforms/google-play/10-studios-selected-for-google-plays-2023-indie-games-fund/)
 
-- Product direction & monetization strategy  
+- Product direction & monetization strategy
 
 ---
 
+### 📫 Let's Connect
 
-### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/guiga-passos/)
+- 📧 [guilhermeeng99@gmail.com](mailto:guilhermeeng99@gmail.com)
+- 🐙 [GitHub](https://github.com/guilhermeeng99)
 
-- 💼 LinkedIn: https://www.linkedin.com/in/guiga-passos/  
-- 📧 Email: guilhermeeng99@gmail.com  
-- 🐙 GitHub: https://github.com/guilhermeeng99  
-
-Building mobile products that scale. Always learning. Always optimizing.
+> Building mobile products that scale. Always learning. Always optimizing.

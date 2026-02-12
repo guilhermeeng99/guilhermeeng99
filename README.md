@@ -1,11 +1,107 @@
-# 🧠 About Me:
-🔭 Building scalable mobile apps & games with Flutter and Firebase.<br>📱 Experienced in products with 15M+ downloads and Google Play awards.<br>⚙️ Focused on performance, architecture, and Live Ops at scale.<br>🤝 Open to collaborating on high-quality mobile products in global teams.<br>
+<img src='assets/header.jpg'/>
+
+Hey! I'm Guilherme 👋  
+
+Flutter Mobile Developer focused on building scalable mobile apps and games used by millions of users worldwide.
+
+I turn ideas into high-performance mobile products — from architecture and clean code to monetization systems, live operations, and global publishing.
+
+Currently building and scaling mobile products with Flutter + Firebase 🚀
+
+---
+
+### **About me**
+
+- 📍 Brazil — Open to Remote (USD / EUR)
+- 📱 6+ years building mobile apps & games
+- 🌍 Products reaching **15M+ downloads worldwide**
+- 🏆 Google Play Indie Games accelerator 2024 Winner
+- 🏆 Google Play Indie Games Fund 2023 Winner  
+- 🏆 Google Play Best of 2021 Winner  
+
+---
+
+### **What I Actually Do**
+
+- Architect scalable Flutter applications (Clean Architecture, MVVM)
+- Build high-performance UI & complex animations
+- Optimize memory usage, reduce ANRs, improve rendering efficiency
+- Design monetization systems (Ads, bidding, eCPM optimization)
+- Implement Live Ops systems (events, leaderboards, ranking systems)
+- Work with full Firebase ecosystem
+- Set up CI/CD pipelines for mobile products
+
+---
+
+<h3><b>💻 Core Technologies</b></h3>
+
+<div align='center'>
+
+<b>Mobile</b>
+
+Flutter • Dart • Riverpod • Bloc • MobX • TDD • Clean Architecture  
+
+<b>Backend & Cloud</b>
+
+Firebase (Auth, Firestore, FCM, Remote Config, Storage)  
+Node.js • GraphQL • REST APIs • SQL • NoSQL  
+
+<b>Product & Growth</b>
+
+ASO • Monetization • Ads Optimization • CI/CD (GitHub Actions, Codemagic)  
+
+</div>
+
+---
+
+## 🚀 Featured Products
+
+### 🧩 Magic Sort — Hybrid Casual Game  
+🔗 https://appmagic.rocks/google-play/magic-sort/com.blu.wsp 
+🏆 Google Play Indie Games accelerator 2024 Winner
+🔗 https://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html  
+
+- 480K+ downloads in first months  
+- Flutter + Firebase  
+- High-performance UI systems  
+- Monetization & Live Events architecture  
+
+---
+
+### 🐰 Rabit — Gamified Habit Tracker  
+🔗 https://appmagic.rocks/google-play/rabit/com.blu.rabito  
+🏆 Google Play Best of 2021 Nominee  
+🔗 https://blog.google/products-and-platforms/platforms/google-play/google-plays-best-of-2021/  
+
+- 3.5M+ downloads  
+- Cloud sync, notifications, analytics  
+- Full Firebase integration  
+
+---
+
+### 🧃 Cups — Casual Puzzle Game  
+🔗 https://appmagic.rocks/ipad/cups/1541421297  
+- 4.5M+ downloads  
+- Strong traction in US market  
+- Full ads & monetization system  
+- Scalable ranking systems  
+
+---
+
+### 👽 Farm vs Aliens — Tower Defense  
+🔗 https://play.google.com/store/apps/details?gl=US&hl=en-US&id=com.blu.farmvsaliens  
+🏆 Google Play Indie Games Fund 2023 Winner  
+🔗 https://blog.google/products-and-platforms/platforms/google-play/10-studios-selected-for-google-plays-2023-indie-games-fund/  
+
+- Product direction & monetization strategy  
+
+---
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guiga-passos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermeeng99@gmail.com) 
+### 📫 Let’s Connect
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- 💼 LinkedIn: https://www.linkedin.com/in/guiga-passos/  
+- 📧 Email: guilhermeeng99@gmail.com  
+- 🐙 GitHub: https://github.com/guilhermeeng99  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Building mobile products that scale. Always learning. Always optimizing.

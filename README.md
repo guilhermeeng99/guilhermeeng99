@@ -1,4 +1,4 @@
-<img src='assets/header.png'/>
+<!-- <img src='assets/header.png'/> -->
 
 Hey! I'm Guilherme 👋
 
@@ -13,7 +13,7 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 ### **About me**
 
 - 📱 5+ years building mobile apps & games
-- 🌍 Products reaching **15M+ downloads worldwide**
+- 🌍 Products reaching **12M+ downloads worldwide**
 - 🏆 Google Play Indie Games Accelerator 2024 — Winner
 - 🏆 Google Play Indie Games Fund 2023 — Winner
 - 🏆 Google Play Best of 2021 — Nominee
@@ -36,7 +36,7 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 ## 🚀 Featured Products
 
 ### 🧩 Magic Sort — Hybrid Casual Game
-[🔗 View on AppMagic](https://appmagic.rocks/google-play/magic-sort/com.blu.wsp) · 🏆 [Google Play Indie Games Accelerator 2024 Winner](https://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html)
+<a href="https://appmagic.rocks/google-play/magic-sort/com.blu.wsp" target="_blank">🔗 View on AppMagic</a> · 🏆 <a href="https://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html" target="_blank">Google Play Indie Games Accelerator 2024 Winner</a>
 
 - **480K+ downloads** in first months
 - Flutter + Firebase
@@ -46,16 +46,23 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 ---
 
 ### 🐰 Rabit — Gamified Habit Tracker
-[🔗 View on AppMagic](https://appmagic.rocks/google-play/rabit/com.blu.rabito) · 🏆 [Google Play Best of 2021 Nominee](https://blog.google/products-and-platforms/platforms/google-play/google-plays-best-of-2021/)
+<a href="https://appmagic.rocks/google-play/rabit/com.blu.rabito" target="_blank">🔗 View on AppMagic</a> · 🏆 <a href="https://blog.google/products-and-platforms/platforms/google-play/google-plays-best-of-2021/" target="_blank">Google Play Best of 2021 Nominee</a>
 
-- **3.5M+ downloads**
+- **5M+ downloads**
 - Cloud sync, notifications, analytics
 - Full Firebase integration
 
 ---
 
+### 🐹 Capy: Self-Care Pet — Virtual Pet App
+<a href="https://appmagic.rocks/iphone/capy-self-care-pet/6739744609" target="_blank">🔗 View on AppMagic</a>
+
+- Flutter
+
+---
+
 ### 🧃 Cups — Casual Puzzle Game
-[🔗 View on AppMagic](https://appmagic.rocks/ipad/cups/1541421297)
+<a href="https://appmagic.rocks/ipad/cups/1541421297" target="_blank">🔗 View on AppMagic</a>
 
 - **4.5M+ downloads**
 - Strong traction in US market
@@ -65,21 +72,14 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 ---
 
 ### 👽 Farm vs Aliens — Tower Defense
-[🔗 View on Google Play](https://play.google.com/store/apps/details?gl=US&hl=en-US&id=com.blu.farmvsaliens) · 🏆 [Google Play Indie Games Fund 2023 Winner](https://blog.google/products-and-platforms/platforms/google-play/10-studios-selected-for-google-plays-2023-indie-games-fund/)
+<a href="https://play.google.com/store/apps/details?gl=US&hl=en-US&id=com.blu.farmvsaliens" target="_blank">🔗 View on Google Play</a> · 🏆 <a href="https://blog.google/products-and-platforms/platforms/google-play/10-studios-selected-for-google-plays-2023-indie-games-fund/" target="_blank">Google Play Indie Games Fund 2023 Winner</a>
 
 - Product direction & monetization strategy
 
 ---
 
-### 🐹 Capy: Self-Care Pet — Virtual Pet App
-[🔗 View on AppMagic](https://appmagic.rocks/iphone/capy-self-care-pet/6739744609)
-
-- Flutter
-
----
-
 ### 🔵 Drop & Merge — Casual Puzzle Game
-[🔗 View on AppMagic](https://appmagic.rocks/iphone/drop-and-merge/1559407907)
+<a href="https://appmagic.rocks/iphone/drop-and-merge/1559407907" target="_blank">🔗 View on AppMagic</a>
 
 - Flutter
 
@@ -113,8 +113,8 @@ ASO • Monetization • Ads Optimization • CI/CD (GitHub Actions, Codemagic)
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/guiga-passos/)
-- 📧 [guilhermeeng99@gmail.com](mailto:guilhermeeng99@gmail.com)
-- 🐙 [GitHub](https://github.com/guilhermeeng99)
+- 💼 <a href="https://www.linkedin.com/in/guigapassos/" target="_blank">LinkedIn</a>
+- 📧 <a href="mailto:guilhermeeng99@gmail.com">guilhermeeng99@gmail.com</a>
+- 🐙 <a href="https://github.com/guilhermeeng99" target="_blank">GitHub</a>
 
 > Building mobile products that scale. Always learning. Always optimizing.

@@ -1,4 +1,4 @@
-<!-- <img src='assets/header.png'/> -->
+<img src='assets/header.png'/>
 
 Hey! I'm Guilherme 👋
 

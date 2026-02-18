@@ -91,23 +91,29 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 
 <b>Core</b>&nbsp;&nbsp;
 
-<img src="assets/flutter-logo.png" width=25 title='Flutter'/> &nbsp;&nbsp; <img src='assets/dart-logo.png' width=25 title='Dart'> &nbsp;&nbsp; <img src='assets/kotlin.png' width=20 height=20 title='Kotlin'> &nbsp;&nbsp; <img src='assets/java.png' width=25 title='Java'> &nbsp;&nbsp;
+<img src="assets/icons/flutter-logo.png" width=25 title='Flutter'/> &nbsp;&nbsp; <img src='assets/icons/dart-logo.png' width=25 title='Dart'> &nbsp;&nbsp; <img src='assets/icons/kotlin.png' width=20 height=20 title='Kotlin'> &nbsp;&nbsp; <img src='assets/icons/java.png' width=25 title='Java'> &nbsp;&nbsp;
 
 Riverpod • Bloc • MobX • TDD • Clean Architecture
 
 <b>Backend & Cloud</b>
 
-<img src='assets/firebase.png' width=25 height=25 title='Firebase'> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/339933" height=25 title='Node.js'> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> &nbsp;&nbsp; <img src='assets/mysql.png' width=20 height=30 title='SQL'> &nbsp;&nbsp; <img src='assets/sqlite.png' width=25 height=25 title='SQLite'>
+<img src='assets/icons/firebase.png' width=25 height=25 title='Firebase'> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/339933" height=25 title='Node.js'> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height=25 title='GraphQL'> &nbsp;&nbsp; <img src='assets/icons/mysql.png' width=20 height=30 title='SQL'> &nbsp;&nbsp; <img src='assets/icons/sqlite.png' width=25 height=25 title='SQLite'>
 
 Firebase (Auth, Firestore, FCM, Remote Config, Storage) • Node.js • GraphQL • REST APIs
 
 <b>Product & Growth</b>
 
-<img src='assets/figma.png' width=17 title='Figma'> &nbsp;&nbsp; <img src='assets/adobe-xd.png' width=25 title='Figma'> &nbsp;&nbsp;  <img src='assets/git.png' width=25 title='Git'> &nbsp;&nbsp; <img src='assets/github.png' width=25 title='GitHub Actions'>
+<img src='assets/icons/figma.png' width=17 title='Figma'> &nbsp;&nbsp; <img src='assets/icons/adobe-xd.png' width=25 title='Adobe XD'> &nbsp;&nbsp;  <img src='assets/icons/git.png' width=25 title='Git'> &nbsp;&nbsp; <img src='assets/icons/github.png' width=25 title='GitHub Actions'>
 
 ASO • Monetization • Ads Optimization • CI/CD (GitHub Actions, Codemagic)
 
 </div>
+
+<img src="assets/line.svg" width="100%" height="1px"/>
+
+### 📄 Resume
+
+<a href="assets/pdfs/Curriculum.pdf" target="_blank">📥 Download my Resume (PDF)</a>
 
 <img src="assets/line.svg" width="100%" height="1px"/>
 

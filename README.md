@@ -12,7 +12,7 @@ Currently building and scaling mobile products with Flutter + Firebase 🚀
 
 ### **About me**
 
-- 📱 5+ years building mobile apps & games
+- 📱 7+ years building mobile apps & games
 - 🌍 Products reaching **12M+ downloads worldwide**
 - 🏆 Google Play Indie Games Accelerator 2024 — Winner
 - 🏆 Google Play Indie Games Fund 2023 — Winner

@@ -3,7 +3,7 @@
 
 Hey! I'm Guilherme 👋
 
-Flutter Mobile Developer focused on building scalable mobile apps and games used by millions of users worldwide.
+Senior Flutter Engineer with 7+ years of experience building and scaling high-performance mobile applications and games from concept to live operations.
 
 I turn ideas into high-performance mobile products — from architecture and clean code to monetization systems, live operations, and global publishing.
 
